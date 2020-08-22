@@ -21,7 +21,7 @@ public class myGrid {
 		driver.get("https://www.google.com/");
 		System.out.println("Title of the page :" + driver.getTitle());
 		System.out.println("test");
-		System.out.println("test");
+		
 		
 	}
 
